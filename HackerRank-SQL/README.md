@@ -10,4 +10,5 @@ Solving SQL problems daily to improve database skills.
 | Day 5 | Japanese Cities' Attributes | HackerRank |
 | Day 6 | Japanese Cities' Names | HackerRank |
 | Day 7 | Weather Observation Station I | HackerRank |
+| Day 8 | Weather Observation Station III | HackerRank |
 
