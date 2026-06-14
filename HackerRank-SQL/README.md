@@ -12,4 +12,5 @@ Solving SQL problems daily to improve database skills.
 | Day 7 | Weather Observation Station I | HackerRank |
 | Day 8 | Weather Observation Station III | HackerRank |
 | Day 9 | Weather Observation Station IV | HackerRank |
+| Day 10 | Weather Observation Station V | HackerRank |
 
