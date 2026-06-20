@@ -23,4 +23,5 @@ Solving SQL problems daily to improve database skills.
 | Day 18 | Higher Than 75 Marks | HackerRank |
 | Day 19 | Employee Names | HackerRank |
 | Day 20 | Employee Salaries | HackerRank |
+| Day 21 | Type of Triangle | HackerRank |
 
