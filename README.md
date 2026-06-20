@@ -8,15 +8,17 @@ This repository documents my SQL learning journey and problem-solving practice a
 
 ## 📂 Repository Structure
 
+```text
 SQL-Workbook/
 │
 ├── 50-Days-SQL-Challenge/
-│ └── LeetCode SQL solutions
+│   └── LeetCode SQL solutions
 │
 ├── HackerRank-SQL/
-│ └── HackerRank SQL solutions
+│   └── HackerRank SQL solutions
 │
 └── README.md
+```
 
 ## 🚀 Platforms Covered
 
