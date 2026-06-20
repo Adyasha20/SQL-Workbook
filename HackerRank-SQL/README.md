@@ -24,4 +24,5 @@ Solving SQL problems daily to improve database skills.
 | Day 19 | Employee Names | HackerRank |
 | Day 20 | Employee Salaries | HackerRank |
 | Day 21 | Type of Triangle | HackerRank |
+| Day 22 | The PADS | HackerRank |
 
