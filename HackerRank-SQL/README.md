@@ -26,4 +26,5 @@ Solving SQL problems daily to improve database skills.
 | Day 21 | Type of Triangle | HackerRank |
 | Day 22 | The PADS | HackerRank |
 | Day 23 | Occupations | HackerRank |
+| Day 24 | Binary Tree Nodes | HackerRank |
 
