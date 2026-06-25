@@ -27,4 +27,5 @@ Solving SQL problems daily to improve database skills.
 | Day 22 | The PADS | HackerRank |
 | Day 23 | Occupations | HackerRank |
 | Day 24 | Binary Tree Nodes | HackerRank |
+| Day 25 | New Companies | HackerRank |
 
