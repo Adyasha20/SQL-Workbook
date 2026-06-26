@@ -29,4 +29,6 @@ Solving SQL problems daily to improve database skills.
 | Day 24 | Binary Tree Nodes | HackerRank |
 | Day 25 | New Companies | HackerRank |
 | Day 26 | Revising Aggregations - The Count Function | HackerRank |
+| Day 27 | Revising Aggregations - The Sum Function | HackerRank |
+| Day 28 | Revising Aggregations - Averages | HackerRank |
 
