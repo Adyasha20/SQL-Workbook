@@ -32,4 +32,5 @@ Solving SQL problems daily to improve database skills.
 | Day 27 | Revising Aggregations - The Sum Function | HackerRank |
 | Day 28 | Revising Aggregations - Averages | HackerRank |
 | Day 29 | Average Population | HackerRank |
+| Day 30 | Japan Population | HackerRank |
 
