@@ -36,4 +36,5 @@ Solving SQL problems daily to improve database skills.
 | Day 31 | Population Density Difference | HackerRank |
 | Day 32 | The Blunder | HackerRank |
 | Day 33 | Top Earners | HackerRank |
+| Day 34 | Weather Observation Station II | HackerRank |
 
