@@ -35,4 +35,5 @@ Solving SQL problems daily to improve database skills.
 | Day 30 | Japan Population | HackerRank |
 | Day 31 | Population Density Difference | HackerRank |
 | Day 32 | The Blunder | HackerRank |
+| Day 33 | Top Earners | HackerRank |
 
