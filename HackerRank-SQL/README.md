@@ -37,4 +37,6 @@ Solving SQL problems daily to improve database skills.
 | Day 32 | The Blunder | HackerRank |
 | Day 33 | Top Earners | HackerRank |
 | Day 34 | Weather Observation Station II | HackerRank |
+| Day 35 | Weather Observation Station XIII | HackerRank |
+| Day 36 | Weather Observation Station XIV | HackerRank |
 
