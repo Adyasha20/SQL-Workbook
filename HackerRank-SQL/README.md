@@ -44,4 +44,4 @@ Solving SQL problems daily to improve database skills.
 | Day 39 | Weather Observation Station XVII | HackerRank |
 | Day 40 | Weather Observation Station XVIII | HackerRank |
 | Day 41 | Weather Observation Station XIX | HackerRank |
-
+| Day 42 | Weather Observation Station XX | HackerRank |
