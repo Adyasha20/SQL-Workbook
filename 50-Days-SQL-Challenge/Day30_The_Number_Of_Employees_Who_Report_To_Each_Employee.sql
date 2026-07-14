@@ -8,5 +8,5 @@ ROUND(AVG(r.age)) AS average_age           --Calculate the average age of those 
 FROM Employees e                           --Use the Employees table as managers (e)
 JOIN Employees r                           --Join the same table again as reporting employees (r)
 ON e.employee_id = r.reports_to            --Match each manager with employees who report to them
-GROUP BY employee_id, e.name               --SQL Query Correction
+GROUP BY employee_id, e.name               --Group the result by employee_id and name
 ORDER BY e.employee_id;                    --Sort the result by employee_id
