@@ -45,3 +45,5 @@ Solving SQL problems daily to improve database skills.
 | Day 40 | Weather Observation Station XVIII | HackerRank |
 | Day 41 | Weather Observation Station XIX | HackerRank |
 | Day 42 | Weather Observation Station XX | HackerRank |
+| Day 43 | Asian Population | HackerRank |
+| Day 44 | African Cities | HackerRank |
