@@ -47,3 +47,4 @@ Solving SQL problems daily to improve database skills.
 | Day 42 | Weather Observation Station XX | HackerRank |
 | Day 43 | Population Census | HackerRank |
 | Day 44 | African Cities | HackerRank |
+| Day 45 | Average Population of Each Continent | HackerRank |
