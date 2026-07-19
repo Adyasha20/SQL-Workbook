@@ -50,3 +50,4 @@ Solving SQL problems daily to improve database skills.
 | Day 45 | Average Population of Each Continent | HackerRank |
 | Day 46 | The Report | HackerRank |
 | Day 47 | Top Competitors | HackerRank |
+| Day 48 | Ollivander's Inventory | HackerRank |
